@@ -1,0 +1,14 @@
+/*
+ * Public Styles
+ * Front end stytes to format our additional content meta
+ */
+
+.additional-meta{
+	margin-bottom: 15px;
+}
+.additional-meta .meta{
+	margin-bottom: 5px;
+}
+.additional-meta .meta span{
+	margin-left: 10px;	
+}

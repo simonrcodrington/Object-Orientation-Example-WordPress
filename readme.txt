@@ -1,0 +1,1 @@
+This example creates a new 'event' content type that can be used to display additional event meta. This content is used in one of my SitePoint examples on object orientation in Wordpress

@@ -1,0 +1,18 @@
+/*
+ * Admin Styles
+ * Styling the back-end of our content type
+ */
+
+.field-container{
+	margin-bottom: 10px;
+}
+.field-container label{
+	display: block;
+	margin-bottom: 5px;
+	width: 100%;
+}
+.field-container input,
+.field-container textarea,
+.field-container select{
+	width: 100%;
+}
